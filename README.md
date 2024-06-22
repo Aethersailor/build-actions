@@ -1,5 +1,6 @@
 # 自用 ImmortalWrt X86_64  
-* 基于 [ImmortalWrt](https://github.com/immortalwrt/immortalwrt) SNAPSHOT 最新源码每日自动编译 
+* 基于 [ImmortalWrt](https://github.com/immortalwrt/immortalwrt) SNAPSHOT 最新源码每日自动编译
+* 自己不用，所以不保证什么
   
 ## 修改设置  
 * 分区大小默认 1600M
